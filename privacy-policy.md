@@ -1,6 +1,6 @@
 # Privacy Policy for Sift
 
-*Last updated: [Current Date]*
+*Last updated: 30/03/2025*
 
 ## Introduction
 
@@ -47,4 +47,4 @@ We may update this policy occasionally. We will notify you of significant change
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
-[your-email@example.com]
+collectorchansey@gmail.com
